@@ -8,19 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		2BB21129A30B2E2A50A54991 /* Pods_two.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F521724DE82AA80846E3FB81 /* Pods_two.framework */; };
+		A74B42102AE3A732000C02A5 /* ViewControllerFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = A74B420F2AE3A732000C02A5 /* ViewControllerFour.swift */; };
+		A76CE13D2ADD09EB00BC3BBC /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76CE13C2ADD09EB00BC3BBC /* ViewControllerTwo.swift */; };
 		A77209852AD9929800EB87CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77209842AD9929800EB87CE /* AppDelegate.swift */; };
 		A77209892AD9929800EB87CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77209882AD9929800EB87CE /* ViewController.swift */; };
 		A772098E2AD9929D00EB87CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A772098D2AD9929D00EB87CE /* Assets.xcassets */; };
+		A7DE51212AE172420053D97B /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7DE51202AE172420053D97B /* ViewControllerThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		50B8CD278F2C9405A2C1B9F9 /* Pods-two.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-two.debug.xcconfig"; path = "Target Support Files/Pods-two/Pods-two.debug.xcconfig"; sourceTree = "<group>"; };
 		9EB68DE9FFE36E6C74C0ABA7 /* Pods-two.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-two.release.xcconfig"; path = "Target Support Files/Pods-two/Pods-two.release.xcconfig"; sourceTree = "<group>"; };
+		A74B420F2AE3A732000C02A5 /* ViewControllerFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFour.swift; sourceTree = "<group>"; };
+		A76CE13C2ADD09EB00BC3BBC /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 		A77209812AD9929800EB87CE /* two.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = two.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A77209842AD9929800EB87CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A77209882AD9929800EB87CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A772098D2AD9929D00EB87CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A77209922AD9929D00EB87CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7DE51202AE172420053D97B /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
 		F521724DE82AA80846E3FB81 /* Pods_two.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_two.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -67,6 +73,9 @@
 			children = (
 				A77209842AD9929800EB87CE /* AppDelegate.swift */,
 				A77209882AD9929800EB87CE /* ViewController.swift */,
+				A76CE13C2ADD09EB00BC3BBC /* ViewControllerTwo.swift */,
+				A7DE51202AE172420053D97B /* ViewControllerThree.swift */,
+				A74B420F2AE3A732000C02A5 /* ViewControllerFour.swift */,
 				A772098D2AD9929D00EB87CE /* Assets.xcassets */,
 				A77209922AD9929D00EB87CE /* Info.plist */,
 			);
@@ -197,6 +206,9 @@
 			files = (
 				A77209892AD9929800EB87CE /* ViewController.swift in Sources */,
 				A77209852AD9929800EB87CE /* AppDelegate.swift in Sources */,
+				A74B42102AE3A732000C02A5 /* ViewControllerFour.swift in Sources */,
+				A76CE13D2ADD09EB00BC3BBC /* ViewControllerTwo.swift in Sources */,
+				A7DE51212AE172420053D97B /* ViewControllerThree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
